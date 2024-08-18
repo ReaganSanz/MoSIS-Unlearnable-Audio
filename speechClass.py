@@ -1,3 +1,11 @@
+'''
+Description: This program is used to generate error-minimizing noise for audio samples from SpeechCommands dataset.
+Requires: SpeechCommands dataset, empty folders (experiments, sample_clean, sample_noise, and sample-noise-2),
+          .env, requirements.txt
+Date: 8/18/2024
+
+'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
