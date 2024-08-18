@@ -3,8 +3,8 @@
 **Max**: 21.01%  
 
 ## Variables (speechClass.py) ##
-batch_size = 256            # batch size 
-target_error_rate = 0.01    # loss threshold 
+batch_size = 256            # batch size   
+target_error_rate = 0.01    # loss threshold   
 eps = 0.08                  # epsilon   
 step_size = eps/25          
 train_step = 20             
