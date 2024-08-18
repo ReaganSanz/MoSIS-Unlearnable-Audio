@@ -11,9 +11,6 @@ train_step = 20
 seed = 8
 sample_rate = 16000
 
-# Used in Testing/debugging
-SR = 16000
-EXAMPLES = 3
 ## Variables (trainUnlearn.py) ##
 num_classes = 13 
 batch_size = 256
