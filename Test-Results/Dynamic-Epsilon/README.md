@@ -15,11 +15,10 @@ sample_rate = 16000
 
 
 ## Variables (trainUnlearn.py) ##
-num_classes = 13 
-batch_size = 256
-perturb_tensor_path = "experiments/perturbation.pt"
-log_interval = 20
-n_epoch = 10
-poison_rate = 1.0
-seed = 8   
-sample_rate = 16000
+num_classes = 13   
+batch_size = 256  
+log_interval = 20  
+n_epoch = 10  
+poison_rate = 1.0  
+seed = 8     
+sample_rate = 16000  
